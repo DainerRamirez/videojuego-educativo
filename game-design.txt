@@ -5,11 +5,10 @@ personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nive
 juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es Ada, una niña de ojos verdes y cabello trenzado,curiosa,lógica y decidida. Ada es una aprendiz de arquitecturaque ha sido elegidoa para una misión
+única:reconstruir los puentes matemáticos que conectan los dsistritos del conocimiento. Con su inteligencia especial, Ada
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+los jugadores conceptos clave de Matemáticas.
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
